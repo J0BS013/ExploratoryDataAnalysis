@@ -1,2 +1,2 @@
 # ExploratoryDataAnalysis
-Repositório de estudos com referência ao curso Alura "Data Science: Primeiros passos"
+Repositório de estudos com referência á trilha de estudos "Formação Data Science", pela Alura.
