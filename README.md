@@ -1,4 +1,4 @@
-# ExploratoryDataAnalysis
+# :books: ExploratoryDataAnalysis
 Repositório com referência á trilha de estudos "Formação Data Science", pela Alura.
 
 ## :panda_face: Cursos x Arquivos
